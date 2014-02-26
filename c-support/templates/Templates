@@ -2,15 +2,15 @@
 §  User Macros
 § ==========================================================
 
-SetMacro( 'AUTHOR',      'Tiger Lee' )
-SetMacro( 'AUTHORREF',   'tiger' )
+SetMacro( 'AUTHOR',      'Matthew Pherigo' )
+SetMacro( 'AUTHORREF',   'mwp' )
 SetMacro( 'COMPANY',     '' )
 SetMacro( 'COPYRIGHT',   'Copyright (c) |YEAR|, |AUTHOR|' )
-SetMacro( 'EMAIL',       'c.vim@tigerlee.me' )
-SetMacro( 'LICENSE',     'GNU General Public License' )
+SetMacro( 'EMAIL',       'hybrid120@gmail.com' )
+SetMacro( 'LICENSE',     'BSD 3-Clause License' )
 SetMacro( 'ORGANIZATION','' )
 
-SetStyle( 'CPP' )
+SetStyle( 'C' )
 
 § prefix used for Doxygen commands, '\' or '@'
 SetMacro( 'DOX_CMD', '\' )
