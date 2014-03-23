@@ -8,6 +8,7 @@ SetMacro( 'COMPANY',     '' )
 SetMacro( 'COPYRIGHT',   'Copyright (c) |YEAR|, |AUTHOR|' )
 SetMacro( 'EMAIL',       'hybrid120@gmail.com' )
 SetMacro( 'LICENSE',     'BSD 3-Clause License' )
+SetMacro( 'COMPILER',    'Clang' )
 SetMacro( 'ORGANIZATION','' )
 
 SetStyle( 'C' )
